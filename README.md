@@ -1,10 +1,12 @@
 # excel-
 
-title	publishedAt	summary
 Análisis de siniestros viales en autopistas de Buenos Aires con Excel
+
 📅Junio 2025
-Descripción del proyecto.
+
+
 🛠️ Descripción del Proyecto
+
 Desarrollé un dashboard interactivo en Excel para analizar 7.578 siniestros viales ocurridos entre 2014 y 2022 en distintas autopistas de Buenos Aires. El tablero permite identificar patrones clave en la ocurrencia de accidentes, segmentados por:
 
 🕒 Horario de ocurrencia
